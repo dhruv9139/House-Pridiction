@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise House Price Prediction",
+  "description": "An enterprise-grade property valuation, future price forecasting, and analytics system powered by machine learning models and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
